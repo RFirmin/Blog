@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.venv
+blog/migrations
+.env
+db.sqlite3
+mysite_data.json
